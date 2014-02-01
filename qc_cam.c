@@ -1,3 +1,7 @@
+/*
+	Thanks to http://www.lrr.in.tum.de/~acher/quickcam/ for providing most of the logic
+	and macros. And thanks to libusb.com for making USB interfacing simple.
+*/
 #include <stdio.h>
 #include <libusb.h>
 #include <stdlib.h>
